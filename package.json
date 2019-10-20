@@ -12,6 +12,8 @@
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
-    "@babel/preset-env": "^7.6.3"
+    "@babel/preset-env": "^7.6.3",
+    "mixin-deep": "^2.0.1",
+    "set-value": "^3.0.1"
   }
 }
