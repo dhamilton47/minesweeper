@@ -1,16 +1,17 @@
 {
   "name": "minesweeper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Console-based minesweeper game",
   "main": "game.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib"
   },
-  "author": "",
+  "author": "Dan J. Hamilton",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3"
   }
 }
